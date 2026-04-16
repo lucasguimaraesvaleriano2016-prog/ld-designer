@@ -1,0 +1,280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LI",
+				"li"
+			],
+			[
+				"colo",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"A",
+				"a"
+			],
+			[
+				"HE",
+				"header"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"s",
+				"section"
+			],
+			[
+				"e",
+				"em"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"ty",
+				"style"
+			],
+			[
+				"fot",
+				"footer"
+			],
+			[
+				"EM",
+				"em"
+			],
+			[
+				"fo",
+				"footer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/USER/Desktop/programação/meu primeiro site/style.css",
+		"/C/Users/USER/Desktop/programação/meu primeiro site/contato.html",
+		"/C/Users/USER/Desktop/programação/meu primeiro site/eventos.html",
+		"/C/Users/USER/Desktop/programação/meu primeiro site/conquistas.html",
+		"/C/Users/USER/Desktop/programação/meu primeiro site/campeonatos.html",
+		"/C/Users/USER/Desktop/programação/meu primeiro site/sobre.html",
+		"/C/Users/USER/Desktop/programação/meu primeiro site/index.html",
+		"/C/Users/USER/Desktop/programação/projeto site/style.css",
+		"/C/Users/USER/Desktop/programação/projeto site/index.html",
+		"/C/Users/USER/Desktop/campeonato.html",
+		"/C/Users/USER/Documents/Nova pasta/PRODUTORA/style.css",
+		"/C/Users/USER/Documents/Nova pasta/PRODUTORA/index.html",
+		"/C/Users/USER/Documents/Nova pasta/projeto final html/contato.html",
+		"/C/Users/USER/Documents/Nova pasta/projeto final html/quem-somos.html",
+		"/C/Users/USER/Documents/Nova pasta/projeto final html/index.html",
+		"/C/Users/USER/Documents/Nova pasta/index.html",
+		"/C/Users/USER/Documents/Nova pasta/contato.html",
+		"/E/Nova pasta/index.html",
+		"/C/Users/USER/Desktop/Nova pasta/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
